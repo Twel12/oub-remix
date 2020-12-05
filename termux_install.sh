@@ -1,5 +1,5 @@
 clear
-echo -E " SUP PEOPLE "                                                   "
+echo -E " SUP PEOPLE "
 sleep 5
 clear
 
